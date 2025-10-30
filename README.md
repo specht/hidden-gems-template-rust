@@ -10,4 +10,4 @@ cargo vendor vendor
 
 Dann bekommst du ein Verzeichnis `vendor`, das du committen musst, und dann sollte dein Bot auch auf dem Server korrekt laufen. 
 
-Dieses Rust-Template wurde von Matthias Fuchs geschriebe, danke dafür!
+Dieses Rust-Template wurde von Matthias Fuchs geschrieben, danke dafür!

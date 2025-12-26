@@ -1,2 +1,2 @@
 #!/bin/sh
-exec cargo run --bin bot --release
+exec cargo run --bin bot --release -- "$@"
